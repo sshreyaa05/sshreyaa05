@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
 <h3 align="center">A continuous learner committed to the entire world of Data Science!!</h3>
 
