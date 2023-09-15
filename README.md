@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif)
+[![MasterHead](https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
 <h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!! </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyaa05&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyaa05" /> </p>
