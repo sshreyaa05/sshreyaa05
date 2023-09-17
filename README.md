@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=500w)
+[![MasterHead](https://i.pinimg.com/originals/e3/3d/ff/e33dffe14c05041b40e936901320b154.gif)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
 <h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyaa05&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyaa05" /> </p>
