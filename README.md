@@ -1,4 +1,4 @@
-[![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2023/04/Quantum-AI-Fast.gif)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif?format=500w)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
 <h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyaa05&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyaa05" /> </p>
