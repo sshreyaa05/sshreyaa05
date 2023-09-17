@@ -1,4 +1,4 @@
-[![MasterHead]  (https://www.commercient.com/wp-content/uploads/2019/12/0_9IwCpy_JSKZMGlW0.gif)
+[![MasterHead](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
 <h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyaa05&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyaa05" /> </p>
