@@ -1,12 +1,12 @@
-[![MasterHead](https://www.mydral.com/wp-content/uploads/2020/04/datascience.gif)
+[![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/0_9IwCpy_JSKZMGlW0.gif)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
-<h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!! </h3>
+<h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyaa05&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyaa05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshreyaa05&theme=" alt="sshreyaa05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshreyaa05&theme=radical" alt="sshreyaa05" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
-- 💬 Ask me about **Python, SQL, Machine Learning, Statistics, PowerBI, Tableau, Excel**
+- 💬 Ask me about **Python, Machine Learning, Statistics, Excel, PowerBI, Tableau, SQL**
 - 📫 How to reach me **sshreyaadatttaa@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sshreyaa05**
 - 📄 Know about my experiences **https://github.com/sshreyaa05/Shreya_Resume/blob/main/OUTSIDE%20FINAL%20RESUME.pdf**
@@ -22,9 +22,9 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
@@ -37,11 +37,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/sshreyaa05">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sshreyaa05&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sshreyaa05&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sshreyaa05&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sshreyaa05&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sshreyaa05&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sshreyaa05&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sshreyaa05&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sshreyaa05&theme=redical"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sshreyaa05&theme=elegant"/>
