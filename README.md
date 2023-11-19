@@ -1,4 +1,4 @@
-[![MasterHead](https://i.makeagif.com/media/12-12-2022/HuUl_K.gif)
+[![MasterHead](https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 <h1 align="center">Hi 👋, I'm Shreya Datta</h1>
 <h3 align="center">Grounded in data's reality, I find beauty in its power to shape the future through informed decisions!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyaa05&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyaa05" /> </p>
