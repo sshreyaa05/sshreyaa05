@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshreyaa05&theme=radical" alt="sshreyaa05" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Masters in Data Science**
 - 💬 Ask me about **Python, Machine Learning, Statistics, Excel, PowerBI, Tableau, SQL**
 - 📫 How to reach me **sshreyaadatttaa@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sshreyaa05**
