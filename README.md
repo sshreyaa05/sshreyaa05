@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python, Machine Learning, Statistics, Excel, PowerBI, Tableau, SQL**
 - 📫 How to reach me **sshreyaadatttaa@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/sshreyaa05**
-- 📄 Know about my experiences **https://github.com/sshreyaa05/Shreya_Resume/blob/main/SHREYA_RESUME_DATTA.pdf**
+- 📄 Know about my experiences **https://github.com/sshreyaa05/Shreya_Resume/blob/main/SHREYA_FINAL_DATTA_RESUME.pdf**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shreya-datta-4a3a2b288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sshreyaa05" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
